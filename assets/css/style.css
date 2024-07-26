@@ -1,0 +1,132 @@
+body {
+    background-image: url(/assets/img/playing-chess-3840x2160-16674.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* ........header........ */
+header {
+    height: 70px;
+}
+.font-header {
+    font-size: 50px;
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 7%;
+    line-height: 101px;
+    color: #c84445;
+    text-shadow: 0 1px 5px #d14543;
+}
+/* ........header........ */
+/* .............main............
+.............list............ */
+div {
+    display: inline-block;
+}
+#list-background {
+    height: 572px;
+    width: 652px;
+    background-color: #01c1f873;
+    box-shadow: 0 1px 4px aliceblue;
+    border-radius: 23.9px;
+    margin: 49px;
+    margin-right: 542px;
+    margin-left: 201px;
+}
+ul {
+list-style-type: none;
+
+}
+li {
+    height: 80px;
+    width: 92%;
+    background-color: #226b80ce;
+    border-radius: 21px;
+    margin-top: 34PX;
+    padding-top: 20px;
+}
+.li-box1 {
+    height: 39px;
+    width: 103px;
+    background-color: #ffebcd33;
+    border-radius: 24px;
+    line-height: 4px;
+    vertical-align: middle;
+    text-align: center;
+    margin-top: 12px;
+}
+.li-box2 {
+    height: 39px;
+    width: 220px;
+    background-color: #ffebcd33;
+    border-radius: 24px;
+    vertical-align: middle;
+    margin-top: 12px;
+    margin-left: 5%;
+    text-align: center;
+    display: inline-block;
+  }
+.li-box3 {
+        height: 39px;
+    width: 42px;
+    background-color: #ffffff;
+    border-radius: 24px;
+    vertical-align: middle;
+    margin-top: 12px;
+    margin-left: 5%;
+    text-align: center;
+    display: inline-block;
+}
+
+.li-p {
+    width: 200px;
+}
+.li-img {
+    height: 45px;
+   
+}
+.list-background {
+    background: none;
+    line-height: 12px;
+    vertical-align: middle;
+    margin-left: 20px;
+    
+}
+.font-p {
+    line-height: 20%;
+    vertical-align: bottom;
+    display: inline;
+    font-size: 12px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.font-h {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+/* ............list......... */
+/* ............box text......... */
+#info-box {
+    height: 530px;
+    width: 300px;
+    background-color: #F7004A91;
+    box-shadow: 0 1px 4px aliceblue;
+    border-radius: 23.9px;
+    text-align: left;
+    padding-right: 20px;
+    padding-left: 31px;
+    line-height: 17px;
+  }
+
+.font-info {
+font-size:medium;
+color: #FFFF;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+text-shadow: 2px 0 5px black;
+}
+.font-box3 {
+    font-size: larger;
+    color: rgb(34, 137, 233);
+    display: inline;
+    vertical-align: middle;
+}
+/* ............box text......... */
+/* ............main......... */
